@@ -1,0 +1,17 @@
+.page__header {
+    margin: 28px 48px 0 48px;
+}
+
+@media (max-width: 1023px) {
+    .page__header {
+        margin-right: 24px;
+        margin-left: 24px;
+    }
+}
+@media (max-width: 767px) {
+    .page__header {
+        margin-right: 18px;
+        margin-left: 18px;
+        margin-top: 18px;
+    }
+}

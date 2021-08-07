@@ -1,0 +1,30 @@
+.page__places {
+    margin-top: 92px;
+    margin-left: 142px;
+    margin-right: 142px;
+}
+
+@media (max-width: 1179px) {
+    .page__places {
+        margin-left: 48px;
+        margin-right: 48px;
+
+    }
+}
+
+@media (max-width: 1023px) {
+    .page__places {
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-top: 88px;
+
+    }
+}
+
+@media (max-width: 767px) {
+    .page__places {
+        margin-top: 64px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+}

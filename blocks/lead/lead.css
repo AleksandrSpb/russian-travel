@@ -1,0 +1,13 @@
+.lead {
+    text-align: center;
+    font-family: Inter, Arial, serif;
+    color: white;
+    max-width: 984px;
+}
+
+@media (max-width: 1023px) {
+    .lead {
+        max-width: 768px;
+
+    }
+}

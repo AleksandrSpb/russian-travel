@@ -1,0 +1,11 @@
+.places {
+    font-family: Inter, Arial, serif;
+    color: white;
+}
+
+@media (max-width: 1023px) {
+    .places {
+        max-width: 720px;
+
+    }
+}
