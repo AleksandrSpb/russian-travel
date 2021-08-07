@@ -8,6 +8,7 @@
         margin-left: 24px;
     }
 }
+
 @media (max-width: 767px) {
     .page__header {
         margin-right: 18px;

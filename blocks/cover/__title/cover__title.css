@@ -16,12 +16,14 @@
 
     }
 }
+
 @media (max-width: 1023px) {
     .cover__title {
         margin: 115px 104px 213px;
 
     }
 }
+
 @media (max-width: 767px) {
     .cover__title {
         font-size: 32px;

@@ -6,6 +6,7 @@
     margin-block-start: 0;
     margin-block-end: 0;
 }
+
 @media (max-width: 767px) {
     .footer__menu-list {
         display: block;

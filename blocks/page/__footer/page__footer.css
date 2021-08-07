@@ -1,6 +1,7 @@
 .page__footer {
     margin: 92px 48px 24px;
 }
+
 @media (max-width: 1023px) {
     .page__footer {
         margin-right: 24px;
@@ -8,6 +9,7 @@
         margin-top: 88px;
     }
 }
+
 @media (max-width: 767px) {
     .page__footer {
         max-width: 320px;
