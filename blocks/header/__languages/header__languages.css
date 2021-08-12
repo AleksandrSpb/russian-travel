@@ -4,7 +4,6 @@
     width: 100%;
     list-style-type: none;
     margin: 0;
-    /*align-items: center; закомментировано*/
     align-items: flex-end;
     margin-block-start: 0;
     margin-block-end: 0;

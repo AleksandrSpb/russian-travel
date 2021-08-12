@@ -31,14 +31,8 @@
 
 @media (max-width: 767px) {
     .cover__subtitle {
-        /*max-width: 288px;*/
         font-size: 14px;
         line-height: 16px;
-        /*margin-block-start: 119px;
-        margin-block-end: 33px;
-        margin-right: 16px;
-        margin-left: 16px;*/
-        /*margin: 35% auto auto;*/
         margin: 41% 5% 11%;
         width: 90%;
     }
