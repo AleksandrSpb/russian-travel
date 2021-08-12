@@ -3,7 +3,7 @@
     grid-column: 1 / 4;
     display: grid;
     text-decoration: none;
-    background-image: url("/images/cover__background.png");
+    background-image: url(../../../images/cover__background.png);
     position: relative;
     background-size: cover;
     background-position: center center;
