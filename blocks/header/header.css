@@ -7,18 +7,20 @@
 @media (max-width: 1179px) {
     .header {
         max-width: 1024px;
-
     }
 }
 
 @media (max-width: 1023px) {
     .header {
         max-width: 720px;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
 @media (max-width: 767px) {
     .header {
-        max-width: 288px;
+        /*max-width: 288px;*/
+        max-width: 92%;
     }
 }

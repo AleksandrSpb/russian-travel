@@ -1,5 +1,17 @@
 .intro {
     font-family: Inter, Arial, serif;
     color: white;
-    max-width: 984px;
+    max-width: 76%;
+}
+
+@media (max-width: 1279px) {
+    .intro {
+        max-width: 984px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .intro {
+        max-width: 768px;
+    }
 }

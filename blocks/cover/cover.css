@@ -6,16 +6,20 @@
     grid-template-columns: auto;
     grid-template-rows: auto;
     max-width: 1184px;
+    justify-items: center;
 }
 
 @media (max-width: 1023px) {
     .cover {
-        max-width: 768px;
+        /*max-width: 768px;*/
+        width: auto;
     }
 }
 
 @media (max-width: 767px) {
     .cover {
-        max-width: 320px;
+        width: auto;
     }
 }
+
+/*Верстка распадается если убрать отступы - долго мучался с этими блоком. Используйте возможности флекса или грида, чтобы расположить элементы по центру блока.*/

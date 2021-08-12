@@ -1,11 +1,11 @@
 .page {
     max-width: 1280px;
+    min-width: 320px;
     margin: auto;
 }
 
 @media (max-width: 1179px) {
     .header {
         max-width: 1024px;
-
     }
 }

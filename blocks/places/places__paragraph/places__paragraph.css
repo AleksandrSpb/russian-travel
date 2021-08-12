@@ -7,7 +7,12 @@
 @media (max-width: 1023px) {
     .places__paragraph {
         margin-bottom: 25px;
-        max-width: 352px;
+    }
+}
 
+@media (max-width: 767px) {
+    .places__paragraph {
+        margin-left: 16px;
+        margin-right: 16px;
     }
 }

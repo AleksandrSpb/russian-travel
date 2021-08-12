@@ -13,16 +13,16 @@
 
 @media (max-width: 1023px) {
     .page__intro {
-        margin-left: 24px;
-        margin-right: 24px;
         margin-top: 88px;
+        margin-left: 3%;
+        margin-right: 3%;
     }
 }
 
 @media (max-width: 767px) {
     .page__intro {
-        margin-left: 16px;
-        margin-right: 16px;
         margin-top: 64px;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 }
