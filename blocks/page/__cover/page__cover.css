@@ -4,12 +4,7 @@
     margin-top: 92px;
 }
 
-@media (max-width: 1179px) {
-    .page__cover {
-        margin-left: 0;
-        margin-right: 0;
-    }
-}
+
 
 @media (max-width: 767px) {
     .page__cover {
