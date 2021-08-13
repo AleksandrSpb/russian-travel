@@ -34,6 +34,14 @@
         grid-column-gap: 0;
         max-width: 100%;
         justify-items: center;
-        justify-content: normal
+        justify-content: normal;
+    }
+}
+
+@media (max-width: 400px) {
+    .photo-grid {
+
+
+
     }
 }

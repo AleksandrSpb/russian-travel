@@ -1,12 +1,12 @@
 .page__intro {
     margin-top: 92px;
-    margin-left: 142px;
+    margin-left: 148px;
 
 }
 
 @media (max-width: 1179px) {
     .page__intro {
-        margin-left: auto;
+        margin-left: 48px;
         margin-right: auto;
     }
 }

@@ -7,14 +7,14 @@
     margin-inline-start: auto;
     margin-inline-end: auto;
 }
-
+@media (max-width: 1023px) {
+    .intro__list {
+        padding-inline-start: 24px;
+    }
+}
 @media (max-width: 767px) {
     .intro__list {
         margin-top: 34px;
-    }
-}
-@media (max-width: 1023px) {
-    .intro__list {
-        padding-inline-start: 20px;
+        padding-inline-start: 0;
     }
 }

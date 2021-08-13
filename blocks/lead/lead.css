@@ -4,6 +4,12 @@
     color: white;
     max-width: 984px;
 }
+@media (max-width: 1040px) {
+    .lead {
+        max-width: 928px;
+
+    }
+}
 
 @media (max-width: 1023px) {
     .lead {

@@ -14,9 +14,18 @@
         margin-left: 4%;
     }
 }
+@media (max-width: 1100px) {
+    .lead__caption {
+        margin-left: 0;
+    }
+}
 
 @media (max-width: 1023px) {
     .lead__caption {
-        margin-left: 4%;
+        margin-left: 3%;
+    }
+}@media (max-width: 767px) {
+    .lead__caption {
+        margin-left: 5%;
     }
 }

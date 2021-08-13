@@ -6,7 +6,7 @@
 
 @media (max-width: 1179px) {
     .header {
-        max-width: 92%;
+        max-width: 90.5%;
     }
 }
 
@@ -20,6 +20,6 @@
 
 @media (max-width: 767px) {
     .header {
-        max-width: 92%;
+        max-width: 90%;
     }
 }

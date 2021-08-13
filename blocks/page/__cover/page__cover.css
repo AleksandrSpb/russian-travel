@@ -3,11 +3,15 @@
     margin-right: auto;
     margin-top: 92px;
 }
-
+@media (max-width: 1023px) {
+    .page__cover {
+        margin-top: 65px;
+    }
+}
 
 
 @media (max-width: 767px) {
     .page__cover {
-        margin-top: 0;
+        margin-top: 23px;
     }
 }
