@@ -1,8 +1,6 @@
 .page__header {
-    margin: 28px auto 0 ;
+    margin: 28px auto 0;
 }
-
-
 
 @media (max-width: 767px) {
     .page__header {

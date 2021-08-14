@@ -1,9 +1,11 @@
 # Проектная работа: "Путешествие по России". Создана в рамках учебы в [Яндекс.Практикум](https://praktikum.yandex.ru/) на факультете ["Веб-разработчик"](https://praktikum.yandex.ru/web/)
 
-
 ## Описание:
 
-"Путешествие по России" - это типовой однастраничный сайт про российский внутренний туризм. В проектной работе была применена работа с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS. Отличием от предыдущей проектной работы ["How to Learn" (ссылка на репозиторий)](https://github.com/AleksandrSpb/russian-travel) является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries.
+"Путешествие по России" - это типовой однастраничный сайт про российский внутренний туризм. В проектной работе была
+применена работа с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS. Отличием от предыдущей
+проектной работы ["How to Learn" (ссылка на репозиторий)](https://github.com/AleksandrSpb/russian-travel) является
+реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries.
 
 [Проектная работа на GitHub Pages](https://aleksandrspb.github.io/russian-travel/index)
 
@@ -28,7 +30,10 @@
 ```
 git clone git@github.com:AleksandrSpb/russian-travel.git
 ``` 
-Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц - [How do you set up a local testing server? (MDN web docs)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
+
+Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц
+
+- [How do you set up a local testing server? (MDN web docs)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
 
 ## Будущая доработка проекта будет включать в себя:
 

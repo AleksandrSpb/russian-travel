@@ -1,22 +1,23 @@
-.intro {
+.page__intro {
     font-family: Inter, Arial, serif;
     color: white;
     max-width: 76%;
 }
 
 @media (max-width: 1279px) {
-    .intro {
+    .page__intro {
         max-width: 984px;
     }
 }
 
 @media (max-width: 1023px) {
-    .intro {
+    .page__intro {
         max-width: 768px;
     }
 }
+
 @media (max-width: 767px) {
     .page__intro {
-        max-width: calc(100% - 16px*2);
+        max-width: calc(100% - 16px * 2);
     }
 }

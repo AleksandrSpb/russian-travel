@@ -14,6 +14,7 @@
         margin-left: 4%;
     }
 }
+
 @media (max-width: 1100px) {
     .lead__caption {
         margin-left: 0;
@@ -24,7 +25,9 @@
     .lead__caption {
         margin-left: 3%;
     }
-}@media (max-width: 767px) {
+}
+
+@media (max-width: 767px) {
     .lead__caption {
         margin-left: 5%;
     }
