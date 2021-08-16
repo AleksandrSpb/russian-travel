@@ -37,8 +37,3 @@
         justify-content: normal;
     }
 }
-
-@media (max-width: 400px) {
-    .photo-grid {
-    }
-}

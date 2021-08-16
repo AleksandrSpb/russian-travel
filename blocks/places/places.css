@@ -1,6 +1,13 @@
 .places {
     font-family: Inter, Arial, serif;
     color: white;
+    max-width: 984px;
+}
+
+@media (max-width: 1179px) {
+    .places {
+        max-width: 929px;
+    }
 }
 
 @media (max-width: 1023px) {

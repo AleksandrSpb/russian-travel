@@ -1,38 +1,28 @@
 .cover__subtitle {
-    grid-row: 1 / 4;
-    grid-column: 1 / 4;
-    z-index: 2;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
+    max-width: 32%;
     line-height: 22px;
-    max-width: 360px;
-    margin: 429px 412px 245px;
-    color: #FFFFFF;
-    position: relative;
+    font-size: 18px;
+    margin: 16px 0 0;
+    text-align: center;
 }
 
-/*Не получается убрать - распадается верстка - долго мучался. Исправить данный момент и в медиа, если ошибка повторяется.
-Не лучшее решение использовать внешние или внутренние отступы, чтобы подвинуть или изменить размер блока.
-Не большие значения внешних или внутренних отступов использовать очень даже хорошо, например на мобильных разрешений или в других ситуациях , чтобы блоки не липли к краям окна.
-Однако если вы хотите отцентровать блок на странице, то для этого лучше всего использовать свойство margin со значениями по бокам auto, а самому блоку задать корректную максимальную ширину.*/
-@media (max-width: 1179px) {
+@media screen and (max-width: 986px) {
     .cover__subtitle {
-        margin: 379px 332px 195px;
+        max-width: 50%;
     }
 }
 
-@media (max-width: 1023px) {
-    .cover__subtitle {
-        margin: 299px 204px 115px;
-    }
-}
-
-@media (max-width: 767px) {
+@media screen and (max-width: 570px) {
     .cover__subtitle {
         font-size: 14px;
+        max-width: none;
+        margin: 8px 0 0;
         line-height: 16px;
-        margin: 41% 5% 11%;
-        width: 90%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cover__subtitle {
+        max-width: 278px;
     }
 }
